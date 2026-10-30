@@ -8,9 +8,11 @@ Mở [Releases](https://github.com/huongnamvuphuong-cloud/VietMathPro/releases/l
 
 Có thể dùng tệp `VietMathPro-x.y.z-Portable.zip` để chạy portable; xem `HUONG-DAN-CAI-DAT.txt` trong Release.
 
+Nếu cài xong mà Word không có tab VietMathPro: đóng Word, mở VietMathPro, chọn **Trợ giúp → Sửa tab VietMathPro trong Word…**, rồi mở lại Word. Bản portable chạy `Install-WordAddin.cmd`. Cách xử lý khi phần mềm diệt virus xóa file hoặc máy chặn add-in nằm trong `HUONG-DAN-SUA-ADDIN.txt` kèm bộ cài.
+
 ## Cập nhật
 
-Trong VietMathPro, mở **Trợ giúp → Kiểm tra cập nhật…**. Có thể bật hoặc tắt thông báo tự động tại cửa sổ cập nhật. Khi tải xong, lưu tài liệu và đóng Word cùng VietMathPro; trình cài sẽ kiểm tra SHA-256 rồi chạy bộ cài.
+Trong VietMathPro, mở **Trợ giúp → Kiểm tra cập nhật…**. Có thể bật hoặc tắt thông báo tự động tại cửa sổ cập nhật. Từ 1.4.10, sau khi tải xong, chọn **Cài đặt** để chương trình yêu cầu đóng VietMathPro và Word, hoặc **Hủy** để cập nhật sau. Nếu Word hỏi lưu tài liệu, hãy xử lý hộp thoại; nếu ứng dụng vẫn mở, hãy lưu và đóng thủ công. Bộ cài chỉ chạy khi các ứng dụng đã đóng và SHA-256 hợp lệ.
 
 ## Yêu cầu
 
