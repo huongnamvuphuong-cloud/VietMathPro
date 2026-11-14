@@ -5,7 +5,7 @@ VietMathPro giúp soạn và sửa công thức toán trong Microsoft Word.
 ## Chức năng chạy cục bộ
 
 - Trong **VietMathPro → Đề Word → Định dạng văn bản**, chọn **Vùng được chọn** hoặc **Cả tài liệu**. Công cụ dọn markup, đặt chữ Times New Roman 12, chuẩn hóa nhãn Câu/Bài và căn tab phương án A–D theo cách của ThangLong. Dữ liệu công thức nhúng được kiểm tra trước và sau khi định dạng. Có thể hoàn tác bằng Ctrl+Z.
-- Chọn **Hình học & Đồ thị** để vẽ hình phẳng, dựng hình theo quan hệ hình học, đồng bộ hai chiều trực tiếp với mã TikZ (tọa độ biểu thức như trung điểm, chân đường cao, giao điểm, đánh dấu góc/cạnh và nhãn độ dài), hoặc vẽ đồ thị hàm số và xuất bảng biến thiên sang Word. Biểu thức hàm số và mọi ô toán học trong bảng biến thiên là công thức MathType có thể mở/sửa.
+- Chọn **Hình học & Đồ thị** để vẽ hình phẳng, dựng hình theo quan hệ hình học chặt chẽ (giữ vuông góc, tiếp tuyến, điểm trên đường tròn khi kéo), đồng bộ hai chiều trực tiếp với mã TikZ (tọa độ biểu thức như trung điểm, chân đường cao, giao điểm, điểm chia tỷ lệ/góc, đánh dấu góc kèm số đo có hoặc không khoanh cung, ký hiệu cạnh và nhãn độ dài), hoặc vẽ đồ thị hàm số và xuất bảng biến thiên sang Word. Biểu thức hàm số và mọi ô toán học trong bảng biến thiên là công thức MathType có thể mở/sửa.
 - Các thao tác tạo mới, sửa, định dạng, hoặc chuyển từ LaTeX/Word Equation của VietMathPro luôn tạo OLE `Equation.DSMT4` với luồng `Equation Native`/MTEF thật. Vì vậy tệp vẫn dùng được trên máy chỉ cài Word và MathType desktop, không cần cài VietMathPro hay giữ metadata của ứng dụng. Lệnh xuất riêng sang LaTeX hoặc Word Equation vẫn cần do người dùng chủ động chọn.
 
 Các chức năng này chạy trên máy, không yêu cầu đăng nhập, tài khoản, dịch vụ AI/OCR hay dịch vụ Idquiz.
